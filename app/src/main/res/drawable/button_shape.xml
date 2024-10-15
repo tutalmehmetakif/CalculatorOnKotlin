@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#474747"/> <!-- Butonun iç rengi -->
+    <corners android:radius="100dp"/> <!-- Köşe yuvarlama (0dp ise tamamen dikdörtgen) -->
+    <stroke android:width="2dp" android:color="#FF000000"/>
+</shape>
